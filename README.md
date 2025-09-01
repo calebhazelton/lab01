@@ -21,4 +21,5 @@ A simple Python riddle game that loads riddles from a JSON file and prompts the 
 
 Unit tests for the `Riddle` class are provided in `test_riddle.py`. To run the tests:
 ```bash
-python3 -
+python3 -m unittest test_riddle.py
+```
